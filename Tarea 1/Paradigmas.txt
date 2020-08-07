@@ -1,0 +1,25 @@
+Imperativo
+	Es el lenguaje de programacion donde el programador le dice al programa como hacer una accion determinado indicando	
+	instrucciones paso a paso.
+
+	Ejemplo (java):
+		
+		int a;
+		int b;
+		int c = a+b;
+		int x = 10;
+
+		if(x >= c){
+			system.out.println("True");
+		}
+		else{
+			system.out.println("False");
+		}
+
+Declarativo
+	Es el lenguaje de programacion donde el programdor le dice al programa que hacer sin dar instrucciones previas a hacer
+	la accion que se quiere realizar.
+
+	Ejemplo:
+
+		system.out.println(ListadoEmpleado);
