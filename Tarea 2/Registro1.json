@@ -1,0 +1,4 @@
+{"PERSONA": [{"Nombre": "Julio Wu", "Edad": 19, "Genero": "Masculino", "Altura": 1.80}],
+"MASCOTA": [{"Nombre": "Neko", "Tipo": "Gato", "Peso": "3 Libras", "Raza": "Bombay"}],
+"HOSPITAL": [{"Nombre": "San Juan de Dios", "Direccion": "1ª.Avenida 10-50, zona 1", "Telefono":22321187, "Correo": "sanjuandedios@hotmail.com"}],
+"SMARTPHONE": [{"Marca": "Xiaomi", "Modelo": "Redmi 9", "AñoDeFabricacion": 2020,"Procesador": "Mediatek"}]}
