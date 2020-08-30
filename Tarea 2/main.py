@@ -1,9 +1,9 @@
 def menu():
 
     print("SELECIONAL ALGUNAS DE LAS OPCIONES")
-    print("1) Registro 1")
-    print("2) Registro 2")
-    print("3) Registro 3")
+    print("1) Registro 1 _ JSON")
+    print("2) Registro 2 _ XML")
+    print("3) Registro 3 _ CSV")
     print("4) Salir")
 
 while True:
