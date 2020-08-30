@@ -21,4 +21,6 @@ while 4>numero :
 
     print()
     numero=numero +1
+
+print(type(documento))
 print(input("Click Enter para Finalizar"))
